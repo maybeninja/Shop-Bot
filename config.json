@@ -1,0 +1,26 @@
+{
+    "token": "MTIxOTM2MzIyNDI2NTI5MzgyNA.GHLeTD.5JzIq41IgywqRlCrtIfVb4w5X6whV7P6rG-17M",
+    "guild": [
+        1219227064108847154
+    ],
+    "prefix": ".",
+    "owner": [
+        1219225448840691783,
+        1154808437243396138
+    ],
+    "admin": [
+        1219225448840691783,
+        1154808437243396138,
+        1219225448840691783
+    ],
+    "vouch_id": 920177015322210324,
+    "vouch_url": "https://discord.com/channels/1219227064108847154/1219246628939239516",
+    "status": "Flame On Top",
+    "boost_links": "./boost_links.txt",
+    "basic_links": "./basic_links.txt",
+    "3m_id": "./3m_id.txt",
+    "1m_id": "./1m_id.txt",
+    "nitro_tokens_1m": "./1m_tokens.txt",
+    "nitro_tokens_3m": "./3m_tokens.txt",
+    "mcfa": "./mcfa.txt"
+}
